@@ -1,6 +1,7 @@
 
 # Hello World!, I'm Ankush Yadav 👋🏼
-  ## An Indian Software Developer.
+  <h2>An Indian Software Developer</h2>
+  
 ### 🚀 About Me
 
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
