@@ -1,6 +1,5 @@
 
-# Hello World!, I'm Ankush Yadav 👋🏼
-  <h2>An Indian Software Developer</h2>
+# Hello World!, I'm Ankush Yadav 👋🏼 An Indian SOftware Developer
   
 ### 🚀 About Me
 
