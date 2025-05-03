@@ -3,9 +3,9 @@
 ### 🚀 About Me
 
 - 🧠 BCA student from **MDU Rohtak**  
-- 🌱 Currently learning **CSS**, **Git**, and **ethical hacking using Termux**  
-- 🛠️ Building cool front-end stuff & messing around with tools  
-- ⚡ Fun Fact: I debug faster when the Wi-Fi's off  
+- 🌱 Currently learning Java
+- 🛠️ On a journey to turn consistent learning into exceptional coding.
+- ⚡ Fun Fact: I write Java code with coffee by my side and analyze stock charts like I'm in The Matrix.
 - 📬 Email me: psrankush@gmail.com 
 
 ---
