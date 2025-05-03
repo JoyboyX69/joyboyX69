@@ -5,7 +5,7 @@
 - 🧠 BCA student from **MDU Rohtak**  
 - 🌱 Currently learning Java
 - 🛠️ On a journey to turn consistent learning into exceptional coding.
-- ⚡ Fun Fact: I write Java code with coffee by my side and analyze stock charts like I'm in The Matrix.
+- 💡 Fun Fact : I write Java code with coffee by my side and analyze stock charts like I'm in The Matrix.
 - 📬 Email me: psrankush@gmail.com 
 
 ---
