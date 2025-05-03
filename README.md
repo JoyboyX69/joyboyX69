@@ -1,5 +1,6 @@
 
-# Hello World!, I'm Ankush Yadav, An Indian Software ENginner 👋🏼:
+# Hello World!, I'm Ankush Yadav 👋🏼
+  An Indian Software Engineer 
 ### 🚀 About Me
 
 - 🧠 BCA student from **MDU Rohtak**  
