@@ -1,6 +1,5 @@
 
 # Hello World!, I'm Ankush Yadav 👋🏼 
- ## An Indian Software Developer.
   
 ### 🚀 About Me
 
